@@ -1,6 +1,6 @@
 public class BackDrop {
 
-    Pixel[][] board;
+    protected Pixel[][] board;
     /*
     In 'board', lower indexed rows correspond to closer to the bottom
     The bottom-most row (index 0) has 6 columns for pixels
